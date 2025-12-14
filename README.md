@@ -62,11 +62,6 @@ Follow these steps to set up the project locally:
 
 ```text
 ai-emotion-detector/
-├── assets/                 # Images and static resources
-│   └── demo.png            # The screenshot used in this README
-├── static/                 # CSS and JavaScript files
-│   ├── style.css
-│   └── script.js
 ├── templates/              # HTML templates
 │   └── index.html
 ├── app.py                  # Main backend application file
