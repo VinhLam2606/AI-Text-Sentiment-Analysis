@@ -2,7 +2,6 @@
 
 An intelligent web application that analyzes the sentiment of English sentences and identifies the underlying emotion (e.g., Joy, Sadness, Anger, Fear) with a confidence score.
 
-![App Screenshot](./image_7d54a8.png)
 ## 📋 Table of Contents
 - [Introduction](#introduction)
 - [Features](#features)
