@@ -42,8 +42,14 @@ Download Dataset: Link to Dataset on Google Drive https://drive.google.com/drive
 
 Train on Google Colab: Open Training Notebook https://colab.research.google.com/drive/1ruboCaEOEef8M63P9BxUM3cxFGmbOEn3#scrollTo=h4tpiW2kxgAh
 ## 🚀 Installation
-
-Follow these steps to set up the project locally:
+📊 Model PerformanceThe model was trained over 5 epochs. 
+| Epoch | Training Loss | Validation Loss | Accuracy | F1 Score | Precision | Recall |
+| :---: | :---: | :---: | :---: | :---: | :---: | :---: |
+| 1 | 0.254200 | 0.196778 | 92.44% | 0.9252 | 0.9267 | 0.9244 |
+| 2 | 0.143900 | 0.159733 | 93.31% | 0.9341 | 0.9398 | 0.9331 |
+| 3 | 0.099800 | 0.152716 | 93.56% | 0.9360 | 0.9379 | 0.9356 |
+| 4 | 0.075300 | 0.146098 | 93.81% | 0.9381 | 0.9386 | 0.9381 |
+| 5 | 0.049200 | 0.147719 | 93.88% | 0.9391 | 0.9398 | 0.9388 |
 
 1.  **Clone the repository:**
     ```bash
