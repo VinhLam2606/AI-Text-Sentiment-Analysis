@@ -27,7 +27,20 @@ The **AI Emotion Detector** utilizes Natural Language Processing (NLP) to classi
 * **Backend:** Python (Flask/FastAPI) *[OR Node.js/Express]*
 * **AI Model:** TensorFlow / PyTorch / Hugging Face Transformers
 * **Data Format:** JSON for API communication
+## 🧠 Model Training
+You have two options: use the pre-trained model provided or train your own using the dataset.
 
+Option 1: Download Pre-trained Model (Recommended)
+If you want to run the app immediately without training: 👉 Download Pre-trained Model https://drive.google.com/drive/folders/1luRlKYdXynH6oJEhKIbPerOoU9kJ7EgR
+
+Important: Download all files from this link and place them inside a folder named six_emotion_model in the project root.
+
+Option 2: Train Your Own Model
+If you wish to retrain the model or see how the dataset was processed:
+
+Download Dataset: Link to Dataset on Google Drive https://drive.google.com/drive/folders/132yBWyXlyF81StfICkg-5r2nAmBp352j
+
+Train on Google Colab: Open Training Notebook https://colab.research.google.com/drive/1ruboCaEOEef8M63P9BxUM3cxFGmbOEn3#scrollTo=h4tpiW2kxgAh
 ## 🚀 Installation
 
 Follow these steps to set up the project locally:
